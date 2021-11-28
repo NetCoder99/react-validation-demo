@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #e7f8f8;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.success {
+  color: brown;
+  font-weight: bold;
+}
+
+input.error {
+  background-color: rgb(226, 190, 190);
+}
+
+label.error {
+  color: brown;
+  font-weight: bold;
+}
+
+.width5rem {
+  width: 5rem;
+}
+
+.inline_block {
+  display: inline-block;
+}
+.float_right {
+  float: right;
+}
+
+.margin_left_1rem {
+  margin-left: 1rem;
+}
+
+.margin_right_1rem {
+  margin-right: 1rem;
+}
